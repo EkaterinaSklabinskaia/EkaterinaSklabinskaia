@@ -12,11 +12,8 @@
 
 **Это ли не лучшие  качества для QA инженера?**  
 <br/>
-
-![images](https://github.com/EkaterinaSklabinskaia/My_Portfolio/assets/142924275/9301d3d6-28cc-4f96-8465-27e2d8201a29)
-  <br/>
-    <br/>
-    
+![images](https://github.com/EkaterinaSklabinskaia/EkaterinaSklabinskaia/assets/142924275/1f61a7fd-752d-46e4-847d-7dcfdb5cafd1)  
+<br/>  
  [**КСТАТИ,РЕЗЮМЕ ТУТ**](https://hh.ru/resume/8570f378ff0c6882c30039ed1f414251725753)
   <br/>
   <br/>
@@ -47,7 +44,17 @@
  
  **Используемые инструменты:** ``Exel``,``Word`` ``Miro``, ``Joxi``, ``Jira``, ``Confluence``, ``Postman``,``JSON``, ``Qase.io``, ``Gdrive``, ``Sitechco``, ``DEVtools``,``HTTP/HTTPS`` .  <br/> 
  При тестировании, я так же использовала классы эквивалентности и навыки комбинаторного тестирования.  <br/>
- **Выводы:** 
+**Выводы по работе с проектом:**  <br/>
+Получила практику по составлению тестовой документации:
+Декомпозиция системы
+Тестирование требований
+Тест кейсы (smoke, regress, API, приёмочное)  и  чек листы разных уровней и проверок.
+Чит листы
+Выполнение проверок и поиск багов
+Оформление баг репортов в багтрекинговых системах
+Формирование коллекции Postman
+Оформление отчёта о тестировании и анализ проведённых работ
+
  
 
 **[Чек лист для проверки главной страницы сайта Cloud.ru ](https://docs.google.com/spreadsheets/d/1lhkVisMe3ItIhQXnWJFpJAmYwKRAwbEg/edit?usp=sharing&ouid=100825944939197315567&rtpof=true&sd=true)**   <br/> 
