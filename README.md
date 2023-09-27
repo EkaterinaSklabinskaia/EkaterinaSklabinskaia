@@ -1,6 +1,6 @@
-![SearchingInvestigationGIF](https://github.com/EkaterinaSklabinskaia/EkaterinaSklabinskaia/assets/142924275/fd6f147f-b7a5-4b7a-a8bb-4fda3521fc4d) ## Привет!🖐️  <br/> **Я Склабинская Екатерина  и я начинающий  QA** 🪳🕷️🐛🐞.
+## Привет!🖐️  <br/> **Я Склабинская Екатерина  и я начинающий  QA** 🪳🕷️🐛🐞.
   
- <br/> ![SearchingInvestigationGIF (2)](https://github.com/EkaterinaSklabinskaia/EkaterinaSklabinskaia/assets/142924275/152c425f-8c40-4db8-9896-47be34189082)
+ <br/>
 
   
 > **Как я оказалась внутри совершенно незнакомой мне сферы IT?  <br/>
