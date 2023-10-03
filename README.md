@@ -1,4 +1,4 @@
-## Привет!🖐️  <br/> **Я Склабинская Екатерина  и я  Quality Assurance engineer** 🪳🕷️🐛🐞.
+## Привет!🖐️  <br/> **Я Склабинская Екатерина и я Quality Assurance engineer** 🪳🕷️🐛🐞.
   
  <br/>
 
